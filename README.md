@@ -1,6 +1,6 @@
 <h1>Tic-Tac-Toe 💻</h1>
 <h3>Entry for The Odin Projects's Tic Tac Toe Exercise</h3>
-<h4>Live preview available <a href="https://fatrixienicolieopetina.github.io/tictactoe/">here</a></h4>
+<h4>Live preview available <a href="https://niicoolest.github.io/tictactoe/">here</a></h4>
 
 <h2>WIL/Thoughts 🤔</h2>
 <div>
